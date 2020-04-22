@@ -2,6 +2,8 @@
 
 TODO
 
+* Star using git-flow 
+
 * Explain stuff on README
 
 * Add users model and change requirements to create articles/comments
