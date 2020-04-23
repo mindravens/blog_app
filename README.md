@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 TODO
@@ -30,3 +31,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# blog_app
+A simple blog app to test Rails stuff.
+>>>>>>> cac08de1c9b0147fa084bd3e2ac29144407cde64
